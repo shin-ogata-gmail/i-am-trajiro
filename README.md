@@ -1,2 +1,3 @@
 # i-am-trajiro
-I am Torajiro. I love to eat.
+I am Torajiro.
+I love to eat.
